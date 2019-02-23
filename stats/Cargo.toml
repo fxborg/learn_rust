@@ -1,0 +1,9 @@
+[package]
+
+name = "stats"
+version = "0.0.1"
+authors = [ "fxborg" ]
+
+[dependencies]
+gnuplot = "*"
+itertools-num = "*"
