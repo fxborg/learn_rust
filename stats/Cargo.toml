@@ -6,4 +6,4 @@ authors = [ "fxborg" ]
 
 [dependencies]
 gnuplot = "*"
-itertools-num = "*"
+
